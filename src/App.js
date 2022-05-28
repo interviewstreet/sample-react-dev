@@ -2,4 +2,4 @@ export default function App() {
   return <h1 data-testid="output">Hello world!</h1>;
 }
 
-export const Name = 'typescript';
+export const Hackerrank = 'Hackerrank!';
